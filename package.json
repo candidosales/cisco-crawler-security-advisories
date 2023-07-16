@@ -1,8 +1,8 @@
 {
   "name": "cisco-crawler-security-advisories",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
-  "description": "Cisco Crawlee - Security Advisories",
+  "description": "Cisco Crawler - Security Advisories",
   "dependencies": {
     "crawlee": "^3.0.0",
     "json2csv": "^6.0.0-alpha.2",
