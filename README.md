@@ -1,6 +1,6 @@
 # Cisco Crawler Security Advisories
 
-Made with Crawlee + PlaywrightCrawler + TypeScript
+Made with [Crawlee](https://crawlee.dev/) + [PlaywrightCrawler](https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler) + TypeScript
 
 - [Documentation](https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler)
 - [Examples](https://crawlee.dev/docs/examples/playwright-crawler)
